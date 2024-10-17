@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://EmmaKling369.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://EmmaKling369.github.io</link></image><lastBuildDate>Thu, 17 Oct 2024 01:49:13 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>俺的博客</title><link>https://EmmaKling369.github.io</link><description>feedId:69549580231141376+userId:67113041198430208</description><copyright>俺的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://EmmaKling369.github.io</link></image><lastBuildDate>Thu, 17 Oct 2024 01:53:02 +0000</lastBuildDate><managingEditor>俺的博客</managingEditor><ttl>60</ttl><webMaster>俺的博客</webMaster><item><title>Let's Encrypt 使用教程，配合Nginx开启Https</title><link>https://EmmaKling369.github.io/post/Let%27s%20Encrypt%20-shi-yong-jiao-cheng-%EF%BC%8C-pei-he-Nginx-kai-qi-Https.html</link><description>## 一、安装Certbot客户端&#13;
+```&#13;
+yum install certbot&#13;
+```&#13;
+&#13;
+## 获取证书&#13;
+```&#13;
+certbot certonly --webroot -w /var/www/example -d example.com -d www.example.com&#13;
+```&#13;
+&gt;这个命令会为 example.com 和 www.example.com 这两个域名生成一个证书，使用 --webroot 模式会在 /var/www/example 中创建 .well-known 文件夹，这个文件夹里面包含了一些验证文件，certbot 会通过访问 example.com/.well-known/acme-challenge 来验证你的域名是否绑定的这个服务器。</description><guid isPermaLink="true">https://EmmaKling369.github.io/post/Let%27s%20Encrypt%20-shi-yong-jiao-cheng-%EF%BC%8C-pei-he-Nginx-kai-qi-Https.html</guid><pubDate>Thu, 17 Oct 2024 01:48:49 +0000</pubDate></item></channel></rss>

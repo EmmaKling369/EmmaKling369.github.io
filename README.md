@@ -1,6 +1,6 @@
-# Blog Title :link: https://EmmaKling369.github.io 
-### :page_facing_up: [0](https://EmmaKling369.github.io/tag.html) 
+# 俺的博客 :link: https://EmmaKling369.github.io 
+### :page_facing_up: [1](https://EmmaKling369.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 0 
-### :alarm_clock: 2024-10-17 09:49:13 
+### :hibiscus: 2563 
+### :alarm_clock: 2024-10-17 09:53:02 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
